@@ -1,0 +1,12 @@
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\bin\Debug\net7.0\BookStoreWeb.Models.deps.json
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\bin\Debug\net7.0\BookStoreWeb.Models.dll
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\bin\Debug\net7.0\BookStoreWeb.Models.pdb
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.csproj.AssemblyReference.cache
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.AssemblyInfoInputs.cache
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.AssemblyInfo.cs
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.dll
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\refint\BookStoreWeb.Models.dll
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\BookStoreWeb.Models.pdb
+C:\Users\103A-2\source\repos\BookStoreWeb\BookStoreWeb.Models\obj\Debug\net7.0\ref\BookStoreWeb.Models.dll
